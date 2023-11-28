@@ -50,11 +50,11 @@
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    margin-top:-68%;
+    margin-top:-50%;
 }
 
 .mdx-hero__text p{
-    font-size: 1.1em;
+    font-size: 0.9em;
     font-weight: 300;
     margin: 0;
     padding: 0;
@@ -64,7 +64,7 @@
 
 .mdx-hero__actions {
     position: absolute;
-    margin-top:25%;
+    margin-top:3.5%;
 }
 
 .btn {
